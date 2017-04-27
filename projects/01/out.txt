@@ -1,0 +1,2 @@
+ Mux16(a=aOrb,b=cOrd,sel=sel[1],out=abcd);
+ Mux16(a=eOrf,b=gOrh,sel=sel[1],out=efgh);
